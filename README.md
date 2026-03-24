@@ -16,8 +16,6 @@ I'm currently a student at Institute of Management Sciences. <br>I'm majoring in
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abdul-Basit1212&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdul-Basit1212&icon=2&color=3)](https://visitcount.itsvg.in)
